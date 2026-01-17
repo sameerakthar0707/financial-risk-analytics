@@ -1,2 +1,3 @@
-# financial-risk-analytics
-Financial Risk Analytics &amp; Reporting Platform using Python for data analysis, validation, and reporting
+# Financial Risk Analytics & Reporting Platform
+
+A Python-based analytics project for assessing financial risk, generating metrics, and producing reports.
